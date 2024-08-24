@@ -1,0 +1,29 @@
+
+
+
+
+<head>
+<style>
+
+
+
+
+
+p{color; blue;}
+
+
+body{background-color: purple;}
+
+
+
+#principal{background-color: yellow;}
+
+
+h1{color:#4CAF50;text-align: center;}
+
+p{font-size: 18px;line-height: 1.6;margin: 20px;}
+
+botao:hover{background-color: 45a049;}
+<button class="botao">Clique Aqui</button>
+.botao{background-color: #4CAF50;color: white;padding: 10px 20px;border: nome;border-radius: 5px;cursor: pointer;}
+ 
